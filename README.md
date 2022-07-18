@@ -14,10 +14,13 @@ as well.
 
 ## [Day 1](https://github.com/Anann99/100DaysofMLCode/tree/main/Day%201)
 
-- 
-- 
-- 
-- 
+- Started the course [Image Processing in Python]() on DataCamp.
+  - Completed 45% of the 1st module, i.e., Introducing Image Processing and scikit-image.
+  - Learnt about RGB to grayscale conversion
+  - Flipping the image 
+- Went through the Methodology and Experimental Setup section of my research paper titled "Deep Learning based Smart Ensembled Framework for Garbage Classification". 90% of the paper is done, only the formatting and a little documentation is left.
+  
+
 ## [Day 2]()
 
 - 
