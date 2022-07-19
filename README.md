@@ -21,10 +21,10 @@ as well.
 - Went through the Methodology and Experimental Setup section of my research paper titled "Deep Learning based Smart Ensembled Framework for Garbage Classification". 90% of the paper is done, only the formatting and a little documentation is left.
   
 
-## [Day 2]()
+## [Day 2](https://github.com/Anann99/100DaysofMLCode/tree/main/Day%202)
 
-- 
-- 
+- Joined cohere for AI community and maneuvered around the various discord channels and discussions it has to offer.
+- Getting started with zero shot and few shot learning. Watched the lecture [FSL and ZSL Part 1](https://youtu.be/ppC9ruaVuQQ). Attaching a couple of related papers in the [day 2](https://github.com/Anann99/100DaysofMLCode/tree/main/Day%202) folder which I'll read in the coming days.
 
 ## [Day 3]()
 
