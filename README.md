@@ -28,9 +28,9 @@ as well.
 
 ## [Day 3]()
 
-- 
-- 
-- 
+- Continuing this repo after an interruption that was uncalled for. 
+- Completed the [Introduction to Machine Learning](https://student.deepracer.com/learn) at one go (Thought of participating in AWS Deepracer league but reinforcement learning ain't my thing)
+  
 
 ## [Day 4]()
 
