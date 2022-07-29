@@ -34,9 +34,9 @@ as well.
 
 ## [Day 4]()
 
-- 
-- 
-- 
+- Went through the numpy notes that I created almost a year ago. 
+- Numpy operations
+  
 
 ## [Day 5]()
 
