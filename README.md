@@ -40,9 +40,10 @@ as well.
 
 ## [Day 5]()
 
-- 
-- 
-- 
+- Read this amazing 35 page pdf "ML for everyone". To anyone who's curious about ML and it's related domains, you should definitely read this. Overview of Supervised (Clssification, Regression), Unsupervised (Clustering, Dimension Reduction, Association), Reinforcement and Deep Learning (NN, Convolutional NN, Recurrent NN)
+
+
+
 
 ## [Day 6]()
 
